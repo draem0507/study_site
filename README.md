@@ -50,7 +50,11 @@ Python
 3. [豆瓣Python组](http://www.douban.com/group/python/)
 4. [谷歌Python组](https://groups.google.com/forum/#!forum/python-cn)
 5. [啄木鸟](http://wiki.woodpecker.org.cn/moin/WxPythonInAction/ChapterSeven)
-6. 
+
+
+Android
+==========
+1. [Trinea](http://codekk.com/open-source-project-analysis)
 
 
 BAT技术官网
