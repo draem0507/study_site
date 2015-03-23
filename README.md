@@ -36,12 +36,14 @@ java
 3. [jdon](http://www.jdon.com/)
 4. [ibm developerworks](http://www.ibm.com/developerworks/cn/java/)
 5. [java内存模式-infoQ](http://www.infoq.com/cn/articles/java-memory-model-4)
+6. [jsr310](https://jcp.org/en/jsr/detail?id=310)
 
 git
 ==========
 1. [https://github.com/explore](https://github.com/explore)
 2. [https://github.com/trending](https://github.com/trending)
 3. [http://githuber.info/report](http://githuber.info/report)
+4. [http://git-scm.com/](http://git-scm.com/)
 
 Python
 ==========
@@ -51,6 +53,10 @@ Python
 4. [谷歌Python组](https://groups.google.com/forum/#!forum/python-cn)
 5. [啄木鸟](http://wiki.woodpecker.org.cn/moin/WxPythonInAction/ChapterSeven)
 
+源码分析
+==========
+1. [Hadoop](http://blog.csdn.net/robertleepeak/article/category/734577)
+2.  [Spring](http://blog.csdn.net/robertleepeak/article/category/734229)
 
 Android
 ==========
